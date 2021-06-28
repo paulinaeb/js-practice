@@ -1,5 +1,6 @@
 # js-practice
 Practica de fundamentos de JS by platzi
+puedes acceder a la herramienta aqui: https://paulinaeb.github.io/js-practice/
 
 ...
 
